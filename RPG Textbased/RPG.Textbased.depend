@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1454285691 source:c:\users\martin\desktop\c++ programmer\rpg textbased\rpg_functions.cpp
+	<iostream>
+
+1454079224 source:c:\users\martin\desktop\c++ programmer\rpg textbased\main.cpp
+	<iostream>
+	"RPG_Functions.h"
+
+1454193252 c:\users\martin\desktop\c++ programmer\rpg textbased\rpg_functions.h
+
+1454192843 source:c:\users\martin\desktop\c++ programmer\rpg textbased\inventory.cpp
+	"Inventory.h"
+
+1454192842 c:\users\martin\desktop\c++ programmer\rpg textbased\inventory.h
+
